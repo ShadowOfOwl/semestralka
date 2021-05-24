@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">semestralka</string>
+    <string name="game_rules">Game Rules</string>
+    <string name="play">Play</string>
+    <string name="roll_the_dice">Roll The Dice</string>
+    <string name="todo">TODO</string>
+    <string name="choose_your_cube">Choose your cube</string>
+    <string name="_20_edged">20-edged</string>
+    <string name="_4_edged">4-edged</string>
+    <string name="_10_edged">10-edged</string>
+    <string name="_8_edged">8-edged</string>
+    <string name="_6_edged">6-edged</string>
+    <string name="_12_edged">12-edged</string>
+    <string name="roll_1">Roll 1</string>
+    <string name="roll_2">Roll 2</string>
+</resources>
